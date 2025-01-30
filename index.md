@@ -11,3 +11,7 @@ Added title and subtitle in index.md file
 ``` python
 print("Hello world!!!")
 ```
+### Check list example
+- [x] Java
+- [x] Python
+- [ ] Javascript
